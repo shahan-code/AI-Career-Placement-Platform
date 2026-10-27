@@ -1,0 +1,26 @@
+{
+  "name": "ai-career-placement-intelligence-platform",
+  "version": "2.0.0",
+  "description": "Full-Stack AI Career & Placement Intelligence Platform (React + Express + PostgreSQL + AI API)",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "node backend/server.js",
+    "frontend": "cd frontend && npm run dev",
+    "backend": "cd backend && npm start",
+    "build": "cd frontend && npm run build",
+    "dev": "node backend/server.js"
+  },
+  "keywords": [
+    "placement-prep",
+    "ai-career-intelligence",
+    "resume-parser",
+    "mock-interview",
+    "btech-cse",
+    "viva-defense",
+    "react",
+    "postgresql",
+    "express"
+  ],
+  "author": "B.Tech CSE Project Team",
+  "license": "MIT"
+}
